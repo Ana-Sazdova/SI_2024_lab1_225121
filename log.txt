@@ -1,0 +1,37 @@
+commit 0acd44691f4bf0b40c4035c84118bbd7ac8d3d42 (HEAD -> master, origin/master)
+Merge: 2a44bf3 655ea14
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 16:02:03 2024 +0200
+
+    Merge branch 'master' of https://github.com/Ana-Sazdova/SI_2024_lab1_225121
+
+commit 2a44bf36e1930e781d479f037b1e196578fcdbc2
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 16:00:51 2024 +0200
+
+    rebase
+
+commit 01d7c98c8b64628c66c1fba6d79c5a1c93650f88
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 14:50:28 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit e95a869fa1bb2baa230c3e63ac7eeb0dee966200
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 14:15:50 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b98a165f68c2a5d8fd1bbdafca8179eb1344378f (origin/bug1, bug1)
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 14:47:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit e4380cced65354958edfb3f6a048e7c0c7c8c547
+Author: Ana <anasazdova77@gmail.com>
+Date:   Sat Apr 6 14:14:19 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+:
